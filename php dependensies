@@ -1,9 +1,9 @@
-sudo apt update 
-sudo apt install php
-sudo apt install apache2 
-sudo apt install mysql-server
-sudo apt install mysql-client
-sudo apt-get install php8.1-zip 
-sudo apt-get install php-curl 
-sudo apt-get install -y php-xml
-sudo  apt-get install php-gd 
+sudo apt update -y
+sudo apt install php -y
+sudo apt install apache2 -y
+sudo apt install mysql-server -y
+sudo apt install mysql-client -y
+sudo apt-get install php-zip -y
+sudo apt-get install php-curl -y
+sudo apt-get install -y php-xml -y
+sudo  apt-get install php-gd -y
